@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+# Transcripts for the talks on RubyEvents.org: transcribe --help
+require_relative "../lib/rubyevents_transcripts"
+
+RubyEventsTranscripts::CLI.start(ARGV)

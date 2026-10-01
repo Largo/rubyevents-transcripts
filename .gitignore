@@ -1,0 +1,6 @@
+Gemfile.local
+Gemfile.local.lock
+/tmp/
+/cache/
+.env
+Gemfile.lock
