@@ -74,6 +74,12 @@ transcripts/<series>/<event>/<video_id>/
   meta.json          per language: source, model, provider, translated, chunks, fallbacks
 ```
 
+The first one: Tomoya Ishida's RubyKaigi 2024 keynote "Writing Weird Code",
+spoken in Japanese - [Japanese](transcripts/rubykaigi/rubykaigi-2024/k6QGq5uGhgU/ja.md)
+and [English](transcripts/rubykaigi/rubykaigi-2024/k6QGq5uGhgU/en.md), 51
+minutes in 13 chunks each, from YouTube's automatic Japanese captions and the
+slides, with `sonnet` through ruby_llm-claude_cli.
+
 ## How it works
 
 - **Captions**: the talk's YouTube captions through

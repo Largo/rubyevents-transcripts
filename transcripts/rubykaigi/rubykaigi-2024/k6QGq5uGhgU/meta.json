@@ -1,0 +1,38 @@
+{
+  "talk": {
+    "id": "tomoya-ishida-rubykaigi-2024",
+    "title": "Keynote: Writing Weird Code",
+    "speakers": [
+      "Tomoya Ishida"
+    ],
+    "url": "https://www.rubyevents.org/talks/tomoya-ishida-rubykaigi-2024"
+  },
+  "ja": {
+    "source": "captions",
+    "source_language": "ja",
+    "auto_generated_source": true,
+    "translated": false,
+    "model": "sonnet",
+    "provider": "claude_cli",
+    "slides": true,
+    "glossary_terms": 120,
+    "chunks": 13,
+    "fallback_chunks": 0,
+    "generated_at": "2026-10-01T16:37:31Z",
+    "tool": "rubyevents_transcripts 0.1.0"
+  },
+  "en": {
+    "source": "captions",
+    "source_language": "ja",
+    "auto_generated_source": true,
+    "translated": true,
+    "model": "sonnet",
+    "provider": "claude_cli",
+    "slides": true,
+    "glossary_terms": 120,
+    "chunks": 13,
+    "fallback_chunks": 0,
+    "generated_at": "2026-10-01T16:40:16Z",
+    "tool": "rubyevents_transcripts 0.1.0"
+  }
+}
